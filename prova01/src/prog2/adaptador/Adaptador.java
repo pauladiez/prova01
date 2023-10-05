@@ -15,7 +15,11 @@ import prog2.vista.MercatException;
 
 public class Adaptador {
     private Dades dades;
-    
+
+    /**
+     * Constructor per defecte.
+     */
+
     public Adaptador() {
         dades = new Dades();
     }

@@ -1,98 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1796d484-95c3-46a0-b436-f9aa67911628" name="Changes" comment="commit num. 1">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ant.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prova01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.mf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/build-impl.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/genfiles.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/project.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/adaptador/Adaptador.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/model/Article.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/model/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/model/ClientEstandard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/model/ClientPremium.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/model/Comanda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/model/ComandaNormal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/model/ComandaUrgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/model/Dades.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/model/EnvComandaTimerTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/model/InDades.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/model/Llista.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/model/LlistaArticles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/model/LlistaClients.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/model/LlistaComandes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/model/RebComandaTimerTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/AppMercatUb$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/AppMercatUb$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/AppMercatUb$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/AppMercatUb$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/AppMercatUb$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/AppMercatUb$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/AppMercatUb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmAfegirArticle$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmAfegirArticle$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmAfegirArticle$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmAfegirArticle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmAfegirClient$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmAfegirClient$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmAfegirClient$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmAfegirClient$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmAfegirClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmGestioArticles$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmGestioArticles$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmGestioArticles$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmGestioArticles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmGestioClients$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmGestioClients$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmGestioClients$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmGestioClients.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmGestioComandes$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmGestioComandes$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmGestioComandes$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmGestioComandes$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmGestioComandes$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmGestioComandes$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmGestioComandes$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/FrmGestioComandes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica3Part2/prog2/vista/MercatException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/adaptador/Adaptador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/model/Article.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/model/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/model/ClientEstandard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/model/ClientPremium.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/model/Comanda.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/model/ComandaNormal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/model/ComandaUrgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/model/Dades.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/model/EnvComandaTimerTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/model/InDades.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/model/Llista.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/model/LlistaArticles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/model/LlistaClients.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/model/LlistaComandes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/model/RebComandaTimerTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/vista/AppMercatUb.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/vista/AppMercatUb.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/vista/FrmAfegirArticle.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/vista/FrmAfegirArticle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/vista/FrmAfegirClient.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/vista/FrmAfegirClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/vista/FrmGestioArticles.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/vista/FrmGestioArticles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/vista/FrmGestioClients.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/vista/FrmGestioClients.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/vista/FrmGestioComandes.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/vista/FrmGestioComandes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog2/vista/MercatException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,23 +18,28 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2V4NC4csCq9y6xNZoYLnT7Ma83V" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Paula/Desktop/DS/prova01&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Paula/Desktop/DS/prova01",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -131,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694091264126</updated>
       <workItem from="1694091265612" duration="172000" />
+      <workItem from="1696496399196" duration="831000" />
     </task>
     <task id="LOCAL-00001" summary="commit num. 1">
       <created>1695375178872</created>
